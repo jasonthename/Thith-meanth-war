@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/local/bin/ruby -w
 print "Enter a string: "
 user_input = gets.chomp
 user_input.downcase!
